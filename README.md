@@ -1,4 +1,7 @@
 # BMI-ADVPL-Calculator
+A simple ADVPL program to calculate your BMI.
+
+# BMI
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
 # ADVPL (.prw)
