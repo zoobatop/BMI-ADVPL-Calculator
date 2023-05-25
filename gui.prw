@@ -1,3 +1,6 @@
+/*
+Essa função serve para colocar em uma tabela AxCadastro("ZZA_990")
+*/
 #include 'totvs.ch'
 
 user function malaUn()
